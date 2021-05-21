@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPSlocation Activity</string>
+    <string name="show_location">show_location</string>
+</resources>
